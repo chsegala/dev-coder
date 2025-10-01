@@ -1,0 +1,10 @@
+{
+    "id": "asdf-packages",
+    "version": "1.0.10",
+    "name": "Development Base ASDF Packages",
+    "description": "Tools installed via ASDF version manager",
+    "options": {
+    },
+    "installsAfter": [
+    ]
+}
